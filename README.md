@@ -7,7 +7,8 @@
 
   <p align="center">
       <img src="https://raw.githubusercontent.com/Fariz36/Fariz36/main/assets/ikuyo.gif" alt="keosskuband">
-      <p align="center"><i style="font-size: smaller;">That's a 32 bit multitasking graphical os with a gif running inside of it </i></p>
+      <p align="center"><i style="font-size: smaller;">That's a 32 bit multitasking graphical operating system with a gif running inside of it </i></p>
+      <p align="center"><sub><i>Have you ever created your own operating system? Never take anything for granted.</i></sub></p>
   </p>
 </div>
 
