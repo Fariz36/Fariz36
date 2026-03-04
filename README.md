@@ -1,9 +1,9 @@
 <div align="center">
   
-  # 👋 Welcome to Adha's Bullshittery
-  ### Backend | Low-Level Programming | Cybersecurity | Robotics | DevOps & Infrastructure
-  #### *I code for fun!* ☕️
-  ![Profile Views](https://komarev.com/ghpvc/?username=adharidwan&color=blueviolet&style=for-the-badge)
+  # Hi there! 
+  ### Fullstack Developer | AI/ML | DevOps & Infrastructure
+  #### *jack of all trade wannabe*
+  ![Profile Views](https://komarev.com/ghpvc/?username=Fariz36&color=blueviolet&style=for-the-badge)
 </div>
 
 ---
@@ -11,13 +11,6 @@
 <h2 align="center">🛠️ Tech Stack & Skills</h2>
 
 <div align="center">
-  
-  ### Robotics
-  <img src="https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   
   ### Programming Languages
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -59,11 +52,12 @@
   <img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
   <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   
 </div>
 
@@ -72,23 +66,26 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adharidwan&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fariz36&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adharidwan&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fariz36&theme=dracula&hide_border=true" alt="GitHub Streak" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adharidwan&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fariz36&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </div>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adharidwan&theme=dracula&column=4&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Fariz36&theme=dracula&column=4&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
 </div>
 
 <h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
-  <a href="https://codeforces.com/profile/ridhlyy">
+  <a href="https://www.linkedin.com/in/m-fariz-rifqi-r/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://codeforces.com/profile/akunorangganteng">
     <img src="https://img.shields.io/badge/-CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces" />
   </a>
 </div>
