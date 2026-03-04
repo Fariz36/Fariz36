@@ -4,6 +4,11 @@
   ### Fullstack Developer | AI/ML | DevOps & Infrastructure
   #### *jack of all trade wannabe*
   ![Profile Views](https://komarev.com/ghpvc/?username=Fariz36&color=blueviolet&style=for-the-badge)
+
+  <p align="center">
+      <img src="https://raw.githubusercontent.com/Fariz36/Fariz36/main/assets/ikuyo.gif" alt="keosskuband">
+      <p align="center"><i style="font-size: smaller;">That's a 32 bit multitasking graphical os with a gif running inside of it </i></p>
+  </p>
 </div>
 
 ---
